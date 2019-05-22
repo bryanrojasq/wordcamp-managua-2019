@@ -2,7 +2,7 @@
 ![Creando un Theme con WP Rest API + VueJS](./preview.png)
 
 ## Introducción
-Este proyecto es una contribución para comunidad de Wordpress y la conferencia WordCamp 2018 en San José, Costa Rica. 
+Este proyecto es una contribución para comunidad de Wordpress y la conferencia WordCamp 2019 en Managua, Nicaragua. 
 
 Abordamos los fundamentos sobre cómo crear un Theme usando el Plugin WP Rest API y la librería Vue.JS para consumir la información desde el frontend.
 
@@ -10,7 +10,7 @@ Abordamos los fundamentos sobre cómo crear un Theme usando el Plugin WP Rest AP
 Construir un Theme usando el potencial del concepto ‘Headless CMS’ para articular nuestros equipos de trabajo eficientemente.
 
 ### Recursos
-- [Presentación](https://www.slideshare.net/brojask/creando-un-theme-con-wp-rest-api-107175552)
+- [Presentación](https://www.slideshare.net/brojask/wordcamp-managua-2019-theming-with-wp-rest-api)
 - [Rest API Handbook](https://developer.wordpress.org/rest-api/)
 - [Vue.js by Example(free course)](https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example)
 - [Wordpress Code Reference](https://developer.wordpress.org/reference
